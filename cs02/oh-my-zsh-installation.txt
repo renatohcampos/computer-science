@@ -1,0 +1,10 @@
+OH-MY-ZSH INSTALLATION
+Use of the methods below.
+
+
+CURL INSTALLATION:
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+
+WGET INSTALLATION:
+sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
