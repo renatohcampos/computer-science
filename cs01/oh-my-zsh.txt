@@ -1,8 +1,0 @@
-OH MY ZSH
-
-CURL INSTALL:
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-
-WGET INSTALL:
-sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
